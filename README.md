@@ -1,1 +1,19 @@
 # Desafio-Final
+Projeto Omnichannel
+Descrição
+Projeto desenvolvido para a atividade prática de Banco de Dados, utilizando MySQL e MongoDB Atlas para armazenar e gerenciar dados de um e-commerce omnichannel.
+
+Tecnologias utilizadas
+MySQL
+MySQL Workbench
+MongoDB Atlas
+JavaScript
+Git
+GitHub
+Visual Studio Code
+Arquivos do projeto
+backup_omnichannel.sql – Backup completo do banco de dados MySQL.
+README.md – Documentação do projeto.
+Outros scripts SQL desenvolvidos nas etapas anteriores.
+Autor
+Hygor Nathan
